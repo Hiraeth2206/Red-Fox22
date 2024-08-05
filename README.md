@@ -1,5 +1,5 @@
 ### Hi there 👋🏻
-<img src='Welcome.gif'> </img>
+<img src='welcome.gif'> </img>
 <img src='about_me.gif'> </img>
 ## Memes Section
 <div>
