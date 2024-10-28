@@ -21,15 +21,15 @@
       <img src='/memes/meme14.png' width='auto' height = '190px'> </img>
       <img src='/memes/meme15.jpeg' width='auto' height = '190px'> </img>
       <img src='/memes/meme16.jpg' width='auto' height = '190px'> </img>
-<!--       <img src='/memes/meme17.jpg' width='auto' height = '190px'> </img> -->
+      <img src='/memes/meme17.png' width='auto' height = '190px'> </img>
       <img src='/memes/meme18.jpg' width='auto' height = '190px'> </img>
       <img src='/memes/meme19.jpg' width='auto' height = '190px'> </img>
       <img src='/memes/meme20.jpg' width='auto' height = '190px'> </img>
-      <img src='/memes/meme21.jpg' width='auto' height = '190px'> </img>
-      <img src='/memes/meme22.jpg' width='auto' height = '190px'> </img>
-      <img src='/memes/meme23.jpg' width='auto' height = '190px'> </img>
+      <img src='/memes/meme21.jfif' width='auto' height = '190px'> </img>
+      <img src='/memes/meme22.png' width='auto' height = '190px'> </img>
+      <img src='/memes/meme23.png' width='auto' height = '190px'> </img>
       <img src='/memes/meme24.jpg' width='auto' height = '190px'> </img>
-      <img src='/memes/meme25.jpg' width='auto' height = '190px'> </img>
+      <img src='/memes/meme25.webp' width='auto' height = '190px'> </img>
       <img src='/memes/meme26.jpg' width='auto' height = '190px'> </img>
       <img src='/memes/meme27.jpg' width='auto' height = '190px'> </img>
       <img src='/memes/meme28.jpg' width='auto' height = '190px'> </img>
