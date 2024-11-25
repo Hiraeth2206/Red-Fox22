@@ -1,11 +1,11 @@
 ### Hi there 👋🏻
-<!-- <img src='welcome.gif'> </img>
-<img src='about_me.gif'> </img>
+<img src='Welcome (1).gif'> </img>
+<img src='Welcome.gif'> </img>
 <hr>
-<p><i>"Sometimes I think i will be crazy having classes with Carlos, but i still fine".</i><br><strong>FOX, Red (2024)</strong></p>
+<p><i>"Sometimes I think i will be crazy having classes with Carlos, but i still fine".</i><br><strong>Pastorinni, Anonimus (2024)</strong></p>
 
 <hr>
-<br>-->
+<br>
 ## Memes Section
   <div>
       <img src='/memes/meme1.jpg' width='auto' height = '210vh'> </img>
