@@ -6,7 +6,7 @@
 
 <hr>
 <br>
-## Memes Section
+<h2>Memes Section</h2>
   <div>
       <img src='/memes/meme1.jpg' width='auto' height = '210vh'> </img>
       <img src='/memes/meme2.webp' width='auto' height = '210vh'> </img>
