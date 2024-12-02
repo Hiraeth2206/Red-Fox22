@@ -1,6 +1,5 @@
 ### Hi there 👋🏻
 <img src='Welcome (1).gif'> </img>
-<img src='Welcome.gif'> </img>
 <hr>
 <p><i>"Sometimes I think i will be crazy having classes with Carlos, but i still fine".</i><br><strong>Pastorinni, Anonimus (2024)</strong></p>
 
